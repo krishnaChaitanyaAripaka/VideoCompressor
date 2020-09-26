@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Video Compressor</string>
+    <string name="select_video">Select Video</string>
+    <string name="compress_video">Compress Video</string>
+    <string name="compressing">Compressing...</string>
+    <string name="hint_enter_bitrate_in_kb">Enter bitrate in KB</string>
+    <string name="grant_storage_permission">Grant Storage Permission</string>
+    <string name="permission_desc">Please provide storage permission to write the compressed video file to internal storage.</string>
+</resources>
